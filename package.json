@@ -1,0 +1,12 @@
+{
+  "name": "covid-count",
+  "version": "1.0.0",
+  "description": "A React App to show the current rate of covid patients in India",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
