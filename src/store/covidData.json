@@ -5,7 +5,8 @@
     "confirmedCasesForeign": 0,
     "discharged": 9907,
     "deaths": 129,
-    "totalConfirmed": 10039
+    "totalConfirmed": 10039,
+    "coordinates": [11.66702557, 92.73598262]
   },
   {
     "loc": "Andhra Pradesh",
@@ -13,7 +14,8 @@
     "confirmedCasesForeign": 0,
     "discharged": 2304995,
     "deaths": 14730,
-    "totalConfirmed": 2319797
+    "totalConfirmed": 2319797,
+    "coordinates": [14.7504291, 78.57002559]
   },
   {
     "loc": "Arunachal Pradesh",
@@ -21,7 +23,8 @@
     "confirmedCasesForeign": 0,
     "discharged": 64203,
     "deaths": 296,
-    "totalConfirmed": 64503
+    "totalConfirmed": 64503,
+    "coordinates": [27.10039878, 93.61660071]
   },
   {
     "loc": "Assam",
@@ -29,7 +32,8 @@
     "confirmedCasesForeign": 0,
     "discharged": 716232,
     "deaths": 7986,
-    "totalConfirmed": 724220
+    "totalConfirmed": 724220,
+    "coordinates": [26.7499809, 94.21666744]
   },
   {
     "loc": "Bihar",
@@ -37,7 +41,8 @@
     "confirmedCasesForeign": 0,
     "discharged": 818348,
     "deaths": 12256,
-    "totalConfirmed": 830653
+    "totalConfirmed": 830653,
+    "coordinates": [25.78541445, 87.4799727]
   },
   {
     "loc": "Chandigarh",
@@ -45,7 +50,8 @@
     "confirmedCasesForeign": 0,
     "discharged": 90959,
     "deaths": 1165,
-    "totalConfirmed": 92208
+    "totalConfirmed": 92208,
+    "coordinates": [30.7333, 76.7794]
   },
   {
     "loc": "Chhattisgarh",
@@ -53,15 +59,17 @@
     "confirmedCasesForeign": 0,
     "discharged": 1138271,
     "deaths": 14034,
-    "totalConfirmed": 1152333
+    "totalConfirmed": 1152333,
+    "coordinates": [22.09042035, 82.15998734]
   },
   {
-    "loc": "Dadra and Nagar Haveli and Daman and Diu",
+    "loc": "Dadra and Nagar Haveli",
     "confirmedCasesIndian": 11441,
     "confirmedCasesForeign": 0,
     "discharged": 11437,
     "deaths": 4,
-    "totalConfirmed": 11441
+    "totalConfirmed": 11441,
+    "coordinates": [20.1809, 73.0169]
   },
   {
     "loc": "Delhi",
@@ -69,7 +77,8 @@
     "confirmedCasesForeign": 1,
     "discharged": 1868543,
     "deaths": 26188,
-    "totalConfirmed": 1899072
+    "totalConfirmed": 1899072,
+    "coordinates": [28.7041, 77.1025]
   },
   {
     "loc": "Goa",
@@ -77,7 +86,8 @@
     "confirmedCasesForeign": 1,
     "discharged": 241649,
     "deaths": 3832,
-    "totalConfirmed": 245548
+    "totalConfirmed": 245548,
+    "coordinates": [15.491997, 73.81800065]
   },
   {
     "loc": "Gujarat",
@@ -85,7 +95,8 @@
     "confirmedCasesForeign": 1,
     "discharged": 1213502,
     "deaths": 10944,
-    "totalConfirmed": 1224657
+    "totalConfirmed": 1224657,
+    "coordinates": [22.6708, 71.5724]
   },
   {
     "loc": "Haryana",
@@ -93,7 +104,8 @@
     "confirmedCasesForeign": 14,
     "discharged": 985996,
     "deaths": 10621,
-    "totalConfirmed": 998552
+    "totalConfirmed": 998552,
+    "coordinates": [29.0588, 76.0856]
   },
   {
     "loc": "Himachal Pradesh",
@@ -101,7 +113,8 @@
     "confirmedCasesForeign": 0,
     "discharged": 280721,
     "deaths": 4136,
-    "totalConfirmed": 284926
+    "totalConfirmed": 284926,
+    "coordinates": [32.1024, 77.5619]
   },
   {
     "loc": "Jammu and Kashmir",
@@ -109,7 +122,8 @@
     "confirmedCasesForeign": 0,
     "discharged": 449325,
     "deaths": 4751,
-    "totalConfirmed": 454131
+    "totalConfirmed": 454131,
+    "coordinates": [34.29995933, 74.46665849]
   },
   {
     "loc": "Jharkhand",
@@ -117,7 +131,8 @@
     "confirmedCasesForeign": 0,
     "discharged": 429933,
     "deaths": 5318,
-    "totalConfirmed": 435289
+    "totalConfirmed": 435289,
+    "coordinates": [23.6913, 85.2722]
   },
   {
     "loc": "Karnataka",
@@ -125,15 +140,17 @@
     "confirmedCasesForeign": 0,
     "discharged": 3907480,
     "deaths": 40105,
-    "totalConfirmed": 3949446
+    "totalConfirmed": 3949446,
+    "coordinates": [15.3173, 75.7139]
   },
   {
-    "loc": "Kerala***",
+    "loc": "Kerala",
     "confirmedCasesIndian": 6546235,
     "confirmedCasesForeign": 0,
     "discharged": 6473557,
     "deaths": 69355,
-    "totalConfirmed": 6546235
+    "totalConfirmed": 6546235,
+    "coordinates": [8.900372741, 76.56999263]
   },
   {
     "loc": "Ladakh",
@@ -141,7 +158,8 @@
     "confirmedCasesForeign": 0,
     "discharged": 28019,
     "deaths": 228,
-    "totalConfirmed": 28256
+    "totalConfirmed": 28256,
+    "coordinates": [34.2268, 77.5619]
   },
   {
     "loc": "Lakshadweep",
@@ -149,7 +167,8 @@
     "confirmedCasesForeign": 0,
     "discharged": 11350,
     "deaths": 52,
-    "totalConfirmed": 11402
+    "totalConfirmed": 11402,
+    "coordinates": [10.56257331, 72.63686717]
   },
   {
     "loc": "Madhya Pradesh",
@@ -157,7 +176,8 @@
     "confirmedCasesForeign": 0,
     "discharged": 1030900,
     "deaths": 10735,
-    "totalConfirmed": 1041867
+    "totalConfirmed": 1041867,
+    "coordinates": [22.9734, 78.6569]
   },
   {
     "loc": "Maharashtra",
@@ -165,7 +185,8 @@
     "confirmedCasesForeign": 3,
     "discharged": 7731029,
     "deaths": 147853,
-    "totalConfirmed": 7880337
+    "totalConfirmed": 7880337,
+    "coordinates": [19.7515, 75.7139]
   },
   {
     "loc": "Manipur",
@@ -173,7 +194,8 @@
     "confirmedCasesForeign": 0,
     "discharged": 135102,
     "deaths": 2120,
-    "totalConfirmed": 137230
+    "totalConfirmed": 137230,
+    "coordinates": [24.79997072, 93.95001705]
   },
   {
     "loc": "Meghalaya",
@@ -181,7 +203,8 @@
     "confirmedCasesForeign": 0,
     "discharged": 92213,
     "deaths": 1593,
-    "totalConfirmed": 93819
+    "totalConfirmed": 93819,
+    "coordinates": [25.57049217, 91.8800142]
   },
   {
     "loc": "Mizoram",
@@ -189,7 +212,8 @@
     "confirmedCasesForeign": 0,
     "discharged": 227005,
     "deaths": 697,
-    "totalConfirmed": 227962
+    "totalConfirmed": 227962,
+    "coordinates": [23.71039899, 92.72001461]
   },
   {
     "loc": "Nagaland",
@@ -197,7 +221,8 @@
     "confirmedCasesForeign": 0,
     "discharged": 34731,
     "deaths": 760,
-    "totalConfirmed": 35492
+    "totalConfirmed": 35492,
+    "coordinates": [25.6669979, 94.11657019]
   },
   {
     "loc": "Odisha",
@@ -205,7 +230,8 @@
     "confirmedCasesForeign": 0,
     "discharged": 1278980,
     "deaths": 9126,
-    "totalConfirmed": 1288272
+    "totalConfirmed": 1288272,
+    "coordinates": [20.2376, 84.27]
   },
   {
     "loc": "Puducherry",
@@ -213,7 +239,8 @@
     "confirmedCasesForeign": 0,
     "discharged": 163832,
     "deaths": 1962,
-    "totalConfirmed": 165806
+    "totalConfirmed": 165806,
+    "coordinates": [11.93499371, 79.83000037]
   },
   {
     "loc": "Punjab",
@@ -221,7 +248,8 @@
     "confirmedCasesForeign": 0,
     "discharged": 742107,
     "deaths": 17751,
-    "totalConfirmed": 760028
+    "totalConfirmed": 760028,
+    "coordinates": [31.1471, 75.3412]
   },
   {
     "loc": "Rajasthan",
@@ -229,7 +257,8 @@
     "confirmedCasesForeign": 2,
     "discharged": 1274448,
     "deaths": 9554,
-    "totalConfirmed": 1284618
+    "totalConfirmed": 1284618,
+    "coordinates": [26.44999921, 74.63998124]
   },
   {
     "loc": "Sikkim",
@@ -237,7 +266,8 @@
     "confirmedCasesForeign": 0,
     "discharged": 38702,
     "deaths": 452,
-    "totalConfirmed": 39161
+    "totalConfirmed": 39161,
+    "coordinates": [27.3333303, 88.6166475]
   },
   {
     "loc": "Tamil Nadu",
@@ -245,7 +275,8 @@
     "confirmedCasesForeign": 6,
     "discharged": 3416107,
     "deaths": 38025,
-    "totalConfirmed": 3454556
+    "totalConfirmed": 3454556,
+    "coordinates": [12.92038576, 79.15004187]
   },
   {
     "loc": "Telangana",
@@ -253,7 +284,8 @@
     "confirmedCasesForeign": 0,
     "discharged": 787997,
     "deaths": 4111,
-    "totalConfirmed": 792526
+    "totalConfirmed": 792526,
+    "coordinates": [18.1124, 79.0193]
   },
   {
     "loc": "Tripura",
@@ -261,7 +293,8 @@
     "confirmedCasesForeign": 0,
     "discharged": 99963,
     "deaths": 923,
-    "totalConfirmed": 100887
+    "totalConfirmed": 100887,
+    "coordinates": [23.83540428, 91.27999914]
   },
   {
     "loc": "Uttarakhand",
@@ -269,7 +302,8 @@
     "confirmedCasesForeign": 1,
     "discharged": 429504,
     "deaths": 7693,
-    "totalConfirmed": 437674
+    "totalConfirmed": 437674,
+    "coordinates": [30.0668, 79.0193]
   },
   {
     "loc": "Uttar Pradesh",
@@ -277,7 +311,8 @@
     "confirmedCasesForeign": 1,
     "discharged": 2052615,
     "deaths": 23513,
-    "totalConfirmed": 2077406
+    "totalConfirmed": 2077406,
+    "coordinates": [27.5706, 80.0982]
   },
   {
     "loc": "West Bengal",
@@ -285,6 +320,7 @@
     "confirmedCasesForeign": 0,
     "discharged": 1997153,
     "deaths": 21203,
-    "totalConfirmed": 2018763
+    "totalConfirmed": 2018763,
+    "coordinates": [22.58039044, 88.32994665]
   }
 ]

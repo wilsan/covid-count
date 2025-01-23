@@ -1,3 +1,27 @@
-h1 {
-  color: orange;
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: #f6f6f6;
+  padding: 20px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  gap: 20px;
+}
+
+.container-left {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
 }

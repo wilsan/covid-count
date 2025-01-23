@@ -1,8 +1,23 @@
-import "./styles.css";
 import { useAppSelector } from "./store/hooks";
 
-export default function App() {
-  const covidData = useAppSelector((state) => state.appDate.covidData);
+import PieChart from "./components/PieChart";
+import Map from "./components/Map";
+import BarChart from "./components/BarChart";
+import DropDownMenu from "./components/DropDownMenu";
 
-  return <h1>React TypeScript Webpack Starter Template</h1>;
+import "./styles.css";
+
+export default function App() {
+  const selectedState = useAppSelector((state) => state.appData.selectedState);
+
+  return (
+    <div className="container">
+      <div className="container-left">
+        <DropDownMenu />
+        {selectedState && <PieChart />}
+        {selectedState && <BarChart />}
+      </div>
+      <Map />
+    </div>
+  );
 }

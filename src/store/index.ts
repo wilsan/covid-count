@@ -3,7 +3,7 @@ import appDataReducer from "./appDataSlice";
 
 export const store = configureStore({
   reducer: {
-    appDate: appDataReducer,
+    appData: appDataReducer,
   },
 });
 
