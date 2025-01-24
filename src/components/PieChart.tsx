@@ -25,6 +25,13 @@ export default function PieChart() {
             textinfo: "label+percent",
             textposition: "outside",
             automargin: true,
+            marker: {
+              colors: [
+                "rgb(65, 223, 65)",
+                "rgb(32, 179, 223)",
+                "rgb(204, 33, 33)",
+              ],
+            },
           },
         ]}
         layout={{

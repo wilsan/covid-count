@@ -17,6 +17,7 @@ export default function BarChart() {
   const activeCases = selectedState.totalConfirmed;
   const recovered = selectedState.discharged;
   const deaths = selectedState.deaths;
+  const yValue = [totalCases, activeCases, recovered, deaths];
 
   return (
     <div className="barchart-box">
@@ -26,9 +27,24 @@ export default function BarChart() {
             type: "bar",
             x: ["Total Cases", "Active Cases", "Recovered", "Deaths"],
             y: [totalCases, activeCases, recovered, deaths],
+            text: yValue.map(String),
+            textposition: "auto",
+            hoverinfo: "none",
+            marker: {
+              color: "rgb(158,202,225)",
+              opacity: 0.6,
+              line: {
+                color: "rgb(8,48,107)",
+                width: 1.5,
+              },
+            },
           },
         ]}
-        layout={{ width: 400, height: 400 }}
+        layout={{
+          width: 400,
+          height: 400,
+          title: { text: "Covid Case Count" },
+        }}
       />
     </div>
   );

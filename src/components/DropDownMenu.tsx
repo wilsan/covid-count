@@ -47,6 +47,7 @@ export default function DropDownMenu() {
         type="text"
         placeholder="Select a State"
         value={selectedState?.loc}
+        autoComplete="off"
       />
       <div ref={dropdownMenuRef} className="dropdown-menu">
         <ul>
