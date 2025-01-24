@@ -39,16 +39,10 @@ export default function DropDownMenu() {
 
   return (
     <div className="dropdown-container">
-      <label htmlFor="dropdown">Select state</label>
-      <input
-        id="dropdown"
-        onClick={toggleDropDown}
-        className="dropdown-input"
-        type="text"
-        placeholder="Select a State"
-        value={selectedState?.loc}
-        autoComplete="off"
-      />
+      <label>Select state</label>
+      <div onClick={toggleDropDown} className="dropdown-input">
+        {selectedState?.loc ?? "----"}
+      </div>
       <div ref={dropdownMenuRef} className="dropdown-menu">
         <ul>
           {covidData.map((item) => (
